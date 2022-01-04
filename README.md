@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Shubham 
 - 👀 I’m Currently Working On Flutter 
 - 🌱 I’m currently learning  Backend Devlopment
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Powerfull people Come from Power full Places
+I Transform Caffeine Into Code </>
+- 📫 How to reach me 
+-   Email   :- shubhamvyas85@gmail.com
+- linkedin  :- https://www.linkedin.com/in/shubham-vyas-0b11731b3/
+- Instagram :- https://www.instagram.com/shubh.vyas/
 
-<!---
-mrvyas417/mrvyas417 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
