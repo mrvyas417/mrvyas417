@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubham 
 - 👀 I’m Currently Working On Flutter 
 - 🌱I Transform Caffeine Into Code </>
-- Assoicate Tech consultant at EY 
+- Associate Tech consultant at EY 
 
 - 📫 How to reach me 
 -   Email   :- shubhamvyas85@gmail.com
